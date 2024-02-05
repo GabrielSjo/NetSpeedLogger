@@ -12,3 +12,8 @@ The script requires Python 3.x. Install the dependencies using pip:
 Run the script:
 
     python main.py
+
+# TODO
+    Add unit tests
+    Create react dashboard
+    

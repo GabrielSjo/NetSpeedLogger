@@ -16,4 +16,4 @@ Install the dependencies using pip:
 
 Run the script:
 
-    python network_speed_logger.py
+    python main.py
